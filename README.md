@@ -1,30 +1,6 @@
----
-license: other
-license_name: bria-rmbg-1.4
-license_link: https://bria.ai/bria-huggingface-model-license-agreement/
-pipeline_tag: image-to-image
-tags:
-- remove background
-- background
-- background-removal
-- Pytorch
-- vision
-- legal liability
-
-extra_gated_prompt: This model weights by BRIA AI can be obtained after a commercial license is agreed upon. Fill in the form below and we reach out to you.
-extra_gated_fields:
-  Name: text
-  Company/Org name: text
-  Org Type (Early/Growth Startup, Enterprise, Academy): text
-  Role: text
-  Country: text
-  Email: text
-  By submitting this form, I agree to BRIA’s Privacy policy and Terms & conditions, see links below: checkbox
----
-
 # BRIA Background Removal v1.4 Model Card
 
-Repo is a fork of https://huggingface.co/briaai/RMBG-1.4 
+This REPO IS A FORK OF https://huggingface.co/briaai/RMBG-1.4 
 
 [![Replicate](https://replicate.com/cjwbw/RMBG/badge)](https://replicate.com/cjwbw/RMBG) 
 
